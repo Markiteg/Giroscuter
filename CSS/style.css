@@ -81,7 +81,7 @@ hr{
     width:100%;
     height: 800px;
     position: relative;
-    background: url("/img/scooter.png") no-repeat;
+    background: url("img/scooter.png") no-repeat;
     text-align: center;
     display:table;
 }
